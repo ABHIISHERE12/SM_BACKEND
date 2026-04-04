@@ -1,0 +1,68 @@
+2026-02-23 22:52:58 [error]: MongoDB connection error: bad auth : Authentication failed.
+2026-02-23 23:12:51 [error]: MongoDB connection error: bad auth : Authentication failed.
+2026-02-23 23:15:25 [error]: MongoDB connection error: bad auth : Authentication failed.
+2026-02-23 23:34:55 [error]: POST /api/auth/register — MongoServerError: db already exists with different case already have: [Savemore] trying to create [savemore]
+    at C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\operations\command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-02-24 23:38:42 [error]: GET /api/dashboard — MongoServerSelectionError: connection <monitor> to 159.41.168.88:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-24 23:38:42 [error]: GET /api/goals — MongoServerSelectionError: connection <monitor> to 159.41.168.88:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-24 23:38:47 [error]: GET /api/dashboard — MongoServerSelectionError: connection <monitor> to 159.41.168.88:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-24 23:38:47 [error]: GET /api/goals — MongoServerSelectionError: connection <monitor> to 159.41.168.88:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-25 14:40:48 [error]: GET /api/goals — MongoServerSelectionError: connection <monitor> to 159.41.168.88:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-25 14:40:53 [error]: GET /api/goals — MongoServerSelectionError: connection <monitor> to 159.41.168.88:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-25 14:56:04 [error]: GET /api/goals — MongoServerSelectionError: getaddrinfo ENOTFOUND ac-45vfvpa-shard-00-01.zfwhemb.mongodb.net
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-25 14:56:09 [error]: GET /api/goals — MongoServerSelectionError: getaddrinfo ENOTFOUND ac-45vfvpa-shard-00-01.zfwhemb.mongodb.net
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-25 21:50:51 [error]: GET /api/goals — MongoServerSelectionError: connect ETIMEDOUT 159.41.168.88:27017
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-25 21:50:56 [error]: GET /api/goals — MongoServerSelectionError: connect ETIMEDOUT 159.41.168.88:27017
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-26 00:50:11 [error]: GET /api/transactions — MongoServerSelectionError: connection <monitor> to 159.41.168.76:27017 closed
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-26 00:50:16 [error]: GET /api/transactions — MongoServerSelectionError: connect ETIMEDOUT 159.41.168.76:27017
+    at Timeout._onTimeout (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\mongodb\lib\sdam\topology.js:278:38)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2026-02-26 10:53:19 [error]: Unhandled Rejection: getaddrinfo ENOTFOUND ac-45vfvpa-shard-00-01.zfwhemb.mongodb.net
+2026-02-26 11:34:15 [error]: POST /api/goals/699d4d0d4a2159e8af22da0e/withdrawals/699fdcf36e8cbe3006b598b0/cancel — TypeError: Cannot read properties of undefined (reading 'id')
+    at cancelWithdrawal (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\controller\goalController.js:7:29)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:376:14)
+    at param (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:421:3)
+2026-02-26 14:19:31 [error]: Unhandled Rejection: connection <monitor> to 159.41.168.103:27017 closed
