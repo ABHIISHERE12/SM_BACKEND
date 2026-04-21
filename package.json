@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "dev": "node server.js"
   },
   "dependencies": {
     "accepts": "^1.3.8",
@@ -49,6 +49,7 @@
     "escape-html": "^1.0.3",
     "etag": "^1.8.1",
     "express": "^4.22.1",
+    "express-session": "^1.19.0",
     "express-validator": "^7.3.1",
     "fecha": "^4.2.3",
     "fill-range": "^7.1.1",
@@ -114,6 +115,9 @@
     "on-headers": "^1.1.0",
     "one-time": "^1.0.0",
     "parseurl": "^1.3.3",
+    "passport": "^0.7.0",
+    "passport-github2": "^0.1.12",
+    "passport-google-oauth20": "^2.0.0",
     "path-to-regexp": "^0.1.12",
     "picomatch": "^2.3.1",
     "proxy-addr": "^2.0.7",
@@ -163,7 +167,6 @@
     "winston": "^3.19.0",
     "winston-transport": "^4.9.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ABHIISHERE12/SM_BACKEND.git"
