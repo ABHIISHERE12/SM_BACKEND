@@ -471,3 +471,95 @@
 2026-04-21 16:30:26 [info]: SaveMore API running on port 5000 [development]
 2026-04-21 16:30:29 [info]: MongoDB connected: ac-45vfvpa-shard-00-02.zfwhemb.mongodb.net
 2026-04-21 16:34:27 [info]: ::1 - - [21/Apr/2026:11:04:27 +0000] "POST /api/auth/logout HTTP/1.1" 401 62 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+2026-05-02 11:24:04 [info]: SaveMore API running on port 5000 [development]
+2026-05-02 11:24:08 [info]: MongoDB connected: ac-45vfvpa-shard-00-00.zfwhemb.mongodb.net
+2026-05-02 11:25:38 [info]: SaveMore API running on port 5000 [development]
+2026-05-02 11:25:40 [info]: MongoDB connected: ac-45vfvpa-shard-00-00.zfwhemb.mongodb.net
+2026-05-02 11:26:18 [info]: ::1 - - [02/May/2026:05:56:18 +0000] "POST /api/auth/login HTTP/1.1" 200 363 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+2026-05-02 11:26:18 [info]: ::1 - - [02/May/2026:05:56:18 +0000] "GET /api/goals HTTP/1.1" 200 538 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+2026-05-02 11:26:19 [info]: ::1 - - [02/May/2026:05:56:19 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+2026-05-02 11:27:30 [warn]: MongoDB disconnected
+2026-05-02 11:27:40 [info]: MongoDB reconnected
+2026-05-02 11:28:31 [warn]: MongoDB disconnected
+2026-05-02 11:28:51 [info]: MongoDB reconnected
+2026-05-02 11:28:51 [info]: ::1 - - [02/May/2026:05:58:51 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+2026-05-02 11:28:51 [info]: ::1 - - [02/May/2026:05:58:51 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+2026-05-02 12:48:22 [info]: SaveMore API running on port 5000 [development]
+2026-05-02 12:48:25 [info]: MongoDB connected: ac-45vfvpa-shard-00-00.zfwhemb.mongodb.net
+2026-05-02 12:51:23 [warn]: MongoDB disconnected
+2026-05-02 12:52:48 [info]: MongoDB reconnected
+2026-05-02 12:54:16 [warn]: MongoDB disconnected
+2026-05-02 12:55:47 [info]: MongoDB reconnected
+2026-05-02 13:01:36 [warn]: MongoDB disconnected
+2026-05-09 14:34:10 [info]: SaveMore API running on port 5000 [development]
+2026-05-09 14:34:17 [warn]: MongoDB disconnected
+2026-05-12 16:33:26 [info]: SaveMore API running on port 5000 [development]
+2026-05-12 16:33:33 [info]: MongoDB connected: ac-45vfvpa-shard-00-00.zfwhemb.mongodb.net
+2026-05-12 16:33:50 [info]: ::1 - - [12/May/2026:11:03:50 +0000] "POST /api/goals HTTP/1.1" 401 62 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:33:57 [info]: ::1 - - [12/May/2026:11:03:57 +0000] "POST /api/auth/login HTTP/1.1" 200 363 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:33:58 [info]: ::1 - - [12/May/2026:11:03:58 +0000] "GET /api/goals HTTP/1.1" 200 538 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:33:59 [info]: ::1 - - [12/May/2026:11:03:59 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:34:35 [info]: ::ffff:127.0.0.1 - - [12/May/2026:11:04:35 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:34:40 [info]: ::1 - - [12/May/2026:11:04:40 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:34:41 [info]: ::ffff:127.0.0.1 - - [12/May/2026:11:04:41 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:34:59 [info]: ::1 - - [12/May/2026:11:04:59 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:35:34 [info]: SaveMore API running on port 5000 [development]
+2026-05-12 16:35:39 [info]: MongoDB connected: ac-45vfvpa-shard-00-00.zfwhemb.mongodb.net
+2026-05-12 16:35:41 [info]: ::1 - - [12/May/2026:11:05:41 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:35:44 [info]: ::1 - - [12/May/2026:11:05:44 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:35:53 [info]: ::1 - - [12/May/2026:11:05:53 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:40:06 [info]: ::1 - - [12/May/2026:11:10:06 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:40:08 [info]: ::1 - - [12/May/2026:11:10:08 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:40:26 [info]: ::1 - - [12/May/2026:11:10:26 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 16:50:24 [warn]: MongoDB disconnected
+2026-05-12 19:52:18 [info]: MongoDB reconnected
+2026-05-12 19:52:49 [warn]: MongoDB disconnected
+2026-05-12 19:52:59 [info]: MongoDB reconnected
+2026-05-12 19:58:16 [info]: ::1 - - [12/May/2026:14:28:16 +0000] "GET /api/goals HTTP/1.1" - - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 19:58:16 [info]: ::1 - - [12/May/2026:14:28:16 +0000] "GET /api/goals HTTP/1.1" - - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-12 20:19:45 [warn]: MongoDB disconnected
+2026-05-12 23:31:47 [info]: MongoDB reconnected
+2026-05-12 23:44:48 [warn]: MongoDB disconnected
+2026-05-13 10:24:18 [info]: MongoDB reconnected
+2026-05-13 10:30:49 [warn]: MongoDB disconnected
+2026-05-13 10:31:21 [info]: MongoDB reconnected
+2026-05-13 12:02:38 [warn]: MongoDB disconnected
+2026-05-13 12:03:50 [info]: MongoDB reconnected
+2026-05-13 14:17:20 [info]: SaveMore API running on port 5000 [development]
+2026-05-13 14:17:22 [info]: MongoDB connected: ac-45vfvpa-shard-00-00.zfwhemb.mongodb.net
+2026-05-13 14:18:36 [info]: ::1 - - [13/May/2026:08:48:36 +0000] "GET /api/goals HTTP/1.1" 200 538 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 14:18:36 [info]: ::1 - - [13/May/2026:08:48:36 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 14:18:43 [info]: ::1 - - [13/May/2026:08:48:43 +0000] "POST /api/goals HTTP/1.1" 422 162 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 14:20:19 [warn]: MongoDB disconnected
+2026-05-13 14:20:30 [info]: MongoDB reconnected
+2026-05-13 14:50:14 [info]: ::1 - - [13/May/2026:09:20:14 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 14:50:14 [info]: ::1 - - [13/May/2026:09:20:14 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 14:50:22 [info]: ::1 - - [13/May/2026:09:20:22 +0000] "POST /api/goals HTTP/1.1" 422 279 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 14:58:07 [warn]: MongoDB disconnected
+2026-05-13 14:58:18 [info]: MongoDB reconnected
+2026-05-13 15:14:27 [info]: ::1 - - [13/May/2026:09:44:27 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:14:27 [info]: ::1 - - [13/May/2026:09:44:27 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:14:35 [info]: ::1 - - [13/May/2026:09:44:35 +0000] "POST /api/goals HTTP/1.1" 201 476 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:14:35 [info]: ::1 - - [13/May/2026:09:44:35 +0000] "GET /api/goals HTTP/1.1" 200 957 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:37 [info]: ::1 - - [13/May/2026:10:02:37 +0000] "GET /api/transactions HTTP/1.1" 200 7526 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:37 [info]: ::1 - - [13/May/2026:10:02:37 +0000] "GET /api/dashboard HTTP/1.1" 200 6271 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:37 [info]: ::1 - - [13/May/2026:10:02:37 +0000] "GET /api/transactions HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:37 [info]: ::1 - - [13/May/2026:10:02:37 +0000] "GET /api/dashboard HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:42 [info]: ::1 - - [13/May/2026:10:02:42 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:42 [info]: ::1 - - [13/May/2026:10:02:42 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:45 [info]: ::1 - - [13/May/2026:10:02:45 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:32:45 [info]: ::1 - - [13/May/2026:10:02:45 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:35:41 [info]: ::1 - - [13/May/2026:10:05:41 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:35:41 [info]: ::1 - - [13/May/2026:10:05:41 +0000] "GET /api/transactions HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:35:41 [info]: ::1 - - [13/May/2026:10:05:41 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 15:35:41 [info]: ::1 - - [13/May/2026:10:05:41 +0000] "GET /api/transactions HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 16:16:15 [info]: ::1 - - [13/May/2026:10:46:15 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 16:16:16 [info]: ::1 - - [13/May/2026:10:46:16 +0000] "GET /api/goals HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-13 17:42:36 [warn]: MongoDB disconnected
+2026-05-13 18:06:28 [info]: MongoDB reconnected
+2026-05-13 18:07:06 [warn]: MongoDB disconnected
+2026-05-13 18:07:17 [info]: MongoDB reconnected
+2026-05-13 18:27:11 [warn]: MongoDB disconnected
+2026-05-13 20:06:01 [info]: MongoDB reconnected
+2026-05-13 23:11:21 [warn]: MongoDB disconnected
+2026-05-13 23:11:32 [info]: MongoDB reconnected

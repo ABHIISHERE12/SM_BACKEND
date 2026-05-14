@@ -66,3 +66,4 @@
     at param (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:376:14)
     at Function.process_params (C:\Users\ASUS\OneDrive\Desktop\SM\savemore-backend\node_modules\express\lib\router\index.js:421:3)
 2026-02-26 14:19:31 [error]: Unhandled Rejection: connection <monitor> to 159.41.168.103:27017 closed
+2026-05-09 14:34:17 [error]: MongoDB connection error: Server selection timed out after 5000 ms
